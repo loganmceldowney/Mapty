@@ -1,7 +1,7 @@
 # **Mapty**
 This application was created in order to demonstrate skills with JavaScript classes. In addition to this, it demonstrates abilities in creating, updating, and deleting data within an application.
 
-![alt text](https:/https:/github.com/loganmceldowney/Mapty/blob/main/mapty-application-full.png)
+![alt text](https://github.com/loganmceldowney/Mapty/blob/main/mapty-application-full.png)
 
 ## **Project Purpose & Goal**
 Mapty is a demonstration of my proficiency in JavaScript, HTML, and CSS. The primary goal of this project was to create a workout logging application, enhancing my JavaScript skills and exploring its diverse functionalities. The application's key feature is the ability to log recent workouts on a map, thanks to the integration of the Leaflet library.
